@@ -1,0 +1,8 @@
+public class cwiczenia8 {
+
+
+
+
+
+
+}
